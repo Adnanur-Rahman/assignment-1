@@ -188,4 +188,22 @@
     .bro h4 {
         text-align: left;
     }
+        .fo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        background-color: #B8E2F2;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    textarea,
+    input[type="submit"] {
+        padding: 20px;
+        height: 100%;
+        width: 100%;
+    }
+
+
 
