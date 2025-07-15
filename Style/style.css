@@ -1,0 +1,109 @@
+    .raleway-normal {
+        font-family: "Raleway", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+    .btn,
+    input[type="submit"] {
+        border-radius: 5px;
+        background-color: #4647FF;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+        border: none;
+        line-height: 150%;
+        font-weight: 700;
+        font-size: 16px;
+
+    }
+
+    .btn:hover,
+    input:hover[type="submit"] {
+        background-color: red;
+    }
+
+    body {
+        margin: 0px;
+        padding: 0px;
+        /* width: 100%;
+        min-height: 100%; */
+    }
+
+    h3 {
+        color: #4647FF;
+        line-height: 150%;
+        font-weight: 900;
+        font-size: 34px;
+
+    }
+
+    .white,
+    .btn a {
+        text-decoration: none;
+        color: white;
+    }
+
+    nav div div a {
+        text-decoration: none;
+    }
+
+    .navi {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0px auto;
+        width: 100%;
+        max-width: 1140;
+        max-height: 151;
+    }
+
+    .he {
+        overflow: auto;
+        display: block;
+        max-width: 1440;
+        max-height: 652;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        /* padding: 20px 40px; */
+    }
+
+    .background-img {
+        margin: 0px;
+        padding: 0px;
+        min-width: 100%;
+        display: block;
+        background-image: url('../assets/Hero-bg.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    h2 {
+        margin-top: 0px;
+        text-align: center;
+        font-size: 65;
+        font-weight: 700;
+    }
+
+    .she {
+        text-align: center;
+        display: block;
+        max-width: 905;
+        max-height: 237;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        /* gap: 20px; */
+        padding: 0px 0px 40px;
+        margin: 0px auto;
+    }
+
+    ;
+
+    .white {
+        text-decoration: white;
+    }
