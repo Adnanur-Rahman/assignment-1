@@ -166,10 +166,11 @@
     .m {
         padding-bottom: none;
     }
+
     h4 {
         text-align: center;
     }
-    
+
     .rev,
     .im {
         display: flex;
@@ -188,7 +189,8 @@
     .bro h4 {
         text-align: left;
     }
-        .fo {
+
+    .fo {
         display: flex;
         align-items: center;
         justify-content: center;
@@ -205,5 +207,14 @@
         width: 100%;
     }
 
+    .fot {
+        text-align: center;
+    }
 
-
+    li,
+    li a {
+        display: inline;
+        padding: 5px;
+        color: black;
+        text-decoration: none;
+    }
